@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=h1, initial-scale=1.0">
-    <title>PİKA WEB</title>
 </head>
     <style>
         body{
